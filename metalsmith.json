@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "title": "phmt.me",
+    "description": "life developer"
+  },
+  "plugins": {
+    "metalsmith-markdown": {},
+    "metalsmith-permalinks": {
+      "pattern": ":title"
+    },
+    "metalsmith-layouts": {
+      "engine": "handlebars",
+      "default": "default.html"
+    },
+    "metalsmith-sass": {
+      "outputDir": "css"
+    }
+  }
+}

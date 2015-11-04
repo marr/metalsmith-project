@@ -1,0 +1,33 @@
+{
+  "name": "metalsmith-project",
+  "version": "1.0.0",
+  "description": "Metalsmith Blog Boilerplate",
+  "main": "build.js",
+  "dependencies": {
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-layouts": "^1.4.2",
+    "handlebars": "^4.0.4",
+    "metalsmith-sass": "^1.3.0",
+    "metalsmith-permalinks": "^0.4.0",
+    "node-sass": "^3.4.1",
+    "metalsmith": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marr/metalsmith-project.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "sass"
+  ],
+  "author": "Dave Marr <dave.marr@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marr/metalsmith-project/issues"
+  },
+  "homepage": "https://github.com/marr/metalsmith-project#readme"
+}
