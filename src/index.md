@@ -4,6 +4,7 @@ date: 11/15/2015
 layout: default.html
 ---
 # DRAMASTICALLY DIFFERENT
+<p class="subtitle">By David Marr</p>
 
 ## PROFILE
 Full-stack engineer with strong scripting/tdd/bdd/documentation habits for
