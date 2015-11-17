@@ -3,10 +3,10 @@ title: Resume
 date: 11/15/2015
 layout: default.html
 ---
-# DRAMASTICALLY DIFFERENT
+# Dramastically Different
 <p class="subtitle">By David Marr</p>
 
-## PROFILE
+## Profile
 Full-stack engineer with strong scripting/tdd/bdd/documentation habits for
 maintaining performant build/continuous integration environments.  User focused,
 Growth-Minded with technical, hands-on building experience including physical
@@ -16,7 +16,7 @@ online experiences using my expertise executing crucial technology decisions in
 both startup and enterprise environments. Enjoys working with designers to
 prototype in the browser and automating all the things. Git fluent.
 
-## EXPERIENCE
+## Experience
 ### Sr. Systems Engineer, [Tilt](https://tilt.com), San Francisco, CA, 2013-_present_
 Tilt.com (formerly Crowdtilt) is the simplest way to collect money from a group.
 During my time here I played a critical role in launching a serious competitor
@@ -140,14 +140,14 @@ Led major redesign of Webby award winning Career Advice site[^monstercareeradvic
 
 
 
-## EDUCATION
+## Education
 ### University of New Hampshire, Durham, NH
 Received my Bachelor of Science in Business Administration with a concentration in Management (of) Information Systems.
 Besides receiving an excellent education studying statistics, mathematics, business, and computer science, I developed a job search application linking graduating students with prospective employers.
 
 
 
-## SPECIALTIES
+## Specialties
 * Server Programming (Rails/NodeJS)
 * Relational Databases (MySQL/PostgreSQL)
 * JavaScript (ES6/Next, ES5, ES3)
@@ -156,11 +156,12 @@ Besides receiving an excellent education studying statistics, mathematics, busin
 * Scripting/Build tools ((m|r)ake/bash/python/ruby)
 * Source Control (git)
       
-## COMMUNITY PARTICIPATION &amp; ACHIEVEMENTS
-* Technical resource for Pro JavaScript Design Patterns book[^jsdesignpatternsbook].
-* San Francisco WebPerf  group member.
-* Usergroup presenter at Adobe.
-* Dean’s list at University of New Hampshire
+## Achievements
+* Technical resource for Pro JavaScript Design Patterns book[^jsdesignpatternsbook]
+* San Francisco WebPerf group member
+* Usergroup presenter at Adobe
+* Dean's list at University of New Hampshire
+* Webby Award Winner for Monster's Career Advice page
 
 [^secretfeature]: <http://secretfeature.com> (now dreamboat.io) contains several private demos and client projects.
 [^prescreen]: <http://techcrunch.com/2011/09/14/prescreen-launches-as-a-social-discovery-platform-for-indie-movies/>
