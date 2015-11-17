@@ -1,16 +1,21 @@
 {
   "metadata": {
-    "title": "phmt.me",
-    "description": "life developer"
+    "title": "dmarr.io - David Marr",
+    "description": "Dramastically Different"
   },
   "plugins": {
-    "metalsmith-markdown": {},
+    "metalsmith-markdownit": {
+      "footnote": true
+    },
     "metalsmith-permalinks": {
       "pattern": ":title"
     },
     "metalsmith-layouts": {
       "engine": "handlebars",
       "default": "default.html"
+    },
+    "metalsmith-in-place": {
+      "engine": "handlebars"
     },
     "metalsmith-sass": {
       "outputDir": "css"
