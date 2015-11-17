@@ -86,7 +86,7 @@ NodeJS, Ruby on Rails, PHP/Flex, AS3, JavaScript, Amazon S3, PostgreSQL/PostGIS,
 
 
 
-### Design Technologist, [frog design](https://frogdesign.com), San Francisco, CA, 2009-2010
+### Design Technologist, [frog design](http://frogdesign.com), San Francisco, CA, 2009-2010
 Leveraged motion studies to prototype various concepts for interactive and
 industrial design teams.  Used high fidelity designs as models, ensuring the end
 product was enjoyable and easy to use before advancing onto production.
