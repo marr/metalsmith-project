@@ -80,7 +80,7 @@ data to be displayed online.
 
 Our work helped lead Diversion, Inc.[^diversion] to a successful Series A round
 of funding.  We built and maintained several front and back-end components using
-NodeJS, Ruby on Rails, PHP/Flex,/AS3, JavaScript, Amazon S3, PostgreSQL/PostGIS,
+NodeJS, Ruby on Rails, PHP/Flex, AS3, JavaScript, Amazon S3, PostgreSQL/PostGIS,
  and MySQL.
 
 
