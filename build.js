@@ -4,11 +4,12 @@ var markdown = require('metalsmith-markdownit');
 var sass = require('metalsmith-sass');
 var footnote = require('markdown-it-footnote');
 
-var md = markdown('default', {
-  footnote: true,
-  html: true
+var md = markdown({
+  html: true,
+  typographer: true
 });
 md.parser.use(footnote);
+
 Metalsmith(__dirname)
   .use(md)
   .use(layouts('handlebars'))
