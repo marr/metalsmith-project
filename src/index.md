@@ -97,7 +97,7 @@ feedback, A/B testing, functionality and tests as well as serving on a
 governance board for product stakeholders enabling sharing of ideas to
 high-level executives.
 
-Worked on-site in Orlando for Disney xBand[^frogdisney] project developing an
+Worked on-site in Orlando for Disney MagicBand[^frogdisney] project developing an
 API for park data and customer interactions for various physical points of
 interest. Augmented interactive park map with information regarding wristband
 options and features.
